@@ -7,6 +7,4 @@ Scope
     Defense evasion and post-exploitation workflows
     Utilities, payloads, and operational tooling
 
-    Disclaimer
-
-This content is provided for educational and research purposes only. All techniques should be used strictly in authorized and controlled environments.
+    Disclaimer : This content is provided for educational and research purposes only. All techniques should be used strictly in authorized and controlled environments.
